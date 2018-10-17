@@ -1,14 +1,14 @@
 {
-  "name": "gulp-angular-translate-extract",
-  "version": "0.1.8",
-  "description": "Gulp version of grunt-angular-translate. Simply extract all the translation keys for angular-translate project created by Pascal Precht.",
+  "name": "gulp-angular-translate-extract-intersystems",
+  "version": "0.1.9-intersystems",
+  "description": "Gulp version of grunt-angular-translate. Simply extract all the translation keys for angular-translate project created by Pascal Precht. Forked from https://github.com/bcabanes/gulp-angular-translate-extract.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bcabanes/gulp-angular-translate-extract.git"
+    "url": "https://github.com/daledupreezISC/gulp-angular-translate-extract.git"
   },
   "keywords": [
     "gulpplugin",
@@ -29,9 +29,9 @@
   "author": "Ben",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bcabanes/gulp-angular-translate-extract/issues"
+    "url": "https://github.com/daledupreezISC/gulp-angular-translate-extract/issues"
   },
-  "homepage": "https://github.com/bcabanes/gulp-angular-translate-extract",
+  "homepage": "https://github.com/daledupreezISC/gulp-angular-translate-extract",
   "devDependencies": {
     "gulp": "*"
   },
